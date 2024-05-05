@@ -5,5 +5,6 @@
     <file_type name="test01" description="descrp01" />
     <file_type name="test02" description="descrp02" />
     <file_type name="test03" description="descrp03" />
+    <file_type name="test04" description="descrp04" />
   </list_file>
 </files_test> 
